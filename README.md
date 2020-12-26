@@ -1,4 +1,4 @@
-# Ontario Covid Update
+# Ontario Covid Updater
 Sends an email or text when the latest COVID stats are published on the Ontario website. 
 
 Email address and password need to be updated before emails/texts are sent.
